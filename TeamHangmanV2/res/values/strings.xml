@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">TeamHangmanV2</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_starting">StartingActivity</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="title_activity_game_main">GameMainActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_game_setup">GameSetupActivity</string>
+    <string name="title_activity_create_game">CreateGameActivity</string>
+    <string name="app_title">Team Hangman</string>
+    <string name="label_btn_start_game">Start Game</string>
+    <string name="label_btn_account">Account</string>
+    <string name="label_btn_exit">Exit</string>
+    <string name="label_cb_music">Music</string>
+    <string name="label_et_username">Username</string>
+    <string name="label_et_password">Password</string>
+    <string name="label_btn_signup">Sign Up</string>
+    <string name="label_btn_login">Login</string>
+    <string name="label_tv_currentuser">Current User</string>
+    <string name="label_et_findfriend">Find Friend</string>
+    <string name="label_btn_add">Add</string>
+    <string name="label_btn_remove">Remove</string>
+    <string name="label_btn_done">Done</string>
+    <string name="label_btn_returngame">Return to Game</string>
+    <string name="label_btn_send">Send</string>
+    <string name="hint_chatinput">Enter Message</string>
+    <string name="label_btn_invite">Invite</string>
+    <string name="label_tv_invited">Invited Players</string>
+    <string name="label_btn_guess">Guess</string>
+    <string name="label_btn_chat">Enter Chat</string>
+    <string name="label_btn_creategame">Create Game</string>
+    <string name="label_tv_gameid">Game ID</string>
+    <string name="label_tv_players">Players in Game</string>
+    <string name="label_btn_joingame">Join Game</string>
+    <string name="label_tv_games">Current Games</string>
+    <string name="label_btn_back">Back</string>
+    <string name="note_username_empty">Please enter Username</string>
+    <string name="note_username_notfound">Username not found</string>
+    <string name="note_username_found">Found User!</string>    <string name="note_username_exists">Username already exists</string>
+    <string name="note_username_toolong">Username too long</string>
+    <string name="note_password_empty">Please Enter Password</string>
+    <string name="note_password_toolong">Password too long</string>
+    <string name="hint_usernamelength">Username (Max 20 characters)</string>
+    <string name="hint_passwordlength">Password (Max 7 characters)</string>
+</resources>
